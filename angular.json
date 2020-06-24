@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FinalParalela"
+    }
+  },
+  "defaultProject": "FinalParalela",
+  "cli": {
+    "analytics": "af504b78-19d1-412f-9e90-22240c011e60"
+  }
 }
